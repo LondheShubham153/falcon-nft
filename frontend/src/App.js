@@ -2,6 +2,7 @@ import Main from "./components/Main/Main";
 import Navbar from "./components/Navbar/Navbar";
 import Nfts from "./components/Nfts/Nfts";
 import Holders from "./components/Nfts/Holders"
+import Creators from "./components/Creators/Creators";
 
 export default function App () {
   return (
@@ -9,6 +10,7 @@ export default function App () {
       <Navbar/>
       <Main/>
       <Nfts/>
+      <Creators/>
       <Holders/>
     </>
   )

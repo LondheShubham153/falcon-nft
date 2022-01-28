@@ -24,12 +24,12 @@
   font-size: 1rem;
   border-radius: 20px;
   color: #fff;
-  box-shadow: 0px 0px 5px #fff;
+  box-shadow: 0px 0px 10px rgb(0, 0, 0);
   transition: all 0.3s ease-in;
 }
-.nft-item:hover {
-  box-shadow: 0px 0px 8px #000;
-}
+/* .nft-item:hover {
+  box-shadow: 0px 0px 16px #000;
+} */
 .nft-name {
   color: rgb(0, 0, 0);
   padding-top: 20px;
