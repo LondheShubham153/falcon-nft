@@ -1,0 +1,16 @@
+@font-face {
+  font-family: Himasikan;
+  src: url(../../assets/himagsikan.ttf);
+}
+.holders-section {
+  width: 100vw;
+  height: auto;
+  background-color: #f5e6e6;
+}
+.heading {
+  text-align: center;
+  color: #000000;
+  font-family: Himasikan;
+  font-size: 4rem;
+  padding: 40px 0px;
+}

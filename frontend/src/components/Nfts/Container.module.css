@@ -1,0 +1,50 @@
+@font-face {
+  font-family: Sansation;
+  src: url(../../assets/Sansation_Bold.ttf);
+}
+.nft-items {
+  display: flex;
+  padding: 20px;
+}
+
+.nft-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.nft-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 220px;
+  font-family: Cobatron;
+  height: 220px;
+  font-size: 1rem;
+  border-radius: 20px;
+  color: #fff;
+  box-shadow: 0px 0px 5px #fff;
+  transition: all 0.3s ease-in;
+}
+.nft-item:hover {
+  box-shadow: 0px 0px 8px #000;
+}
+.nft-name {
+  color: rgb(0, 0, 0);
+  padding-top: 20px;
+  font-family: Sansation;
+  font-size: 20px;
+}
+.img {
+  width: 200px;
+  height: 200px;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222);
+}
+.volume {
+  color: rgb(0, 0, 0);
+  padding-top: 20px;
+  font-family: Sansation;
+  font-size: 20px;
+}
