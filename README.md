@@ -44,7 +44,8 @@ Next Biggest Expedition in the World of Cryptocurrency ..!
 Non-fungible tokens (NFTs) are a digital certificate of ownership of a piece of digital asset that can be bought and sold.
 
 
-
+<img src="frontend/src/assets/1.png" alt="Logo" width="2400">
+<img src="frontend/src/assets/2.png" alt="Logo" width="2400">
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
