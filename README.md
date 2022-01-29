@@ -11,7 +11,7 @@
     This site has listed the top 15 Nfts all over the world!
 
 
-  <p>
+  <p align="center">
     <a href="https://falcon-nfts.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/LondheShubham153/">Report Bug</a>
@@ -30,11 +30,10 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
+
+* [Contributors](#contributors)
 * [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+
 
 
 
@@ -49,35 +48,6 @@ Non-fungible tokens (NFTs) are a digital certificate of ownership of a piece of 
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
-This application is built with love, dedication, coffee and:
-* 
-* 
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-
-### Prerequisites
-
-
-
-
-### Installation
-
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
-
-
-<!-- ROADMAP -->
-## Roadmap
 
 
 
