@@ -8,9 +8,10 @@
   <h3 align="center">Falcon-NFTs</h3>
 
   <p align="center">
-    This site has listed the top 5 Nfts all over the world!
+    This site has listed the top 15 Nfts all over the world!
 
     <br />
+  <p>
     <a href="https://falcon-nfts.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/LondheShubham153/">Report Bug</a>
