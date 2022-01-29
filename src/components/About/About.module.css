@@ -1,0 +1,25 @@
+@font-face {
+  font-family: SansationLight;
+  src: url(../../assets/Sansation_Light.ttf);
+}
+.about {
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 200px;
+  background-color: rgba(87, 167, 181, 0.658);
+}
+.about-heading {
+  text-align: center;
+  font-size: 30px;
+  font-family: SansationLight;
+}
+.about-para {
+  text-align: center;
+  font-size: 25px;
+  padding-top: 20px;
+  font-family: SansationLight;
+}
