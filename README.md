@@ -52,6 +52,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 
 
+## Contributors
 
 <!-- CONTRIBUTING -->
 ## Contributing
