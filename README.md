@@ -10,7 +10,7 @@
   <p align="center">
     This site has listed the top 15 Nfts all over the world!
 
-    <br />
+
   <p>
     <a href="https://falcon-nfts.netlify.app/">View Demo</a>
     ·
