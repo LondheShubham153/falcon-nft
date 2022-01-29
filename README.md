@@ -47,9 +47,9 @@ Non-fungible tokens (NFTs) are a digital certificate of ownership of a piece of 
 <img src="frontend/src/assets/1.png" alt="Logo" width="2400">
 <img src="frontend/src/assets/2.png" alt="Logo" width="2400">
 
+## Built With
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-
+<img src="https://www.getpostman.com/img-rebrand/logo.png" width=80>
 
 
 ## Contributors
