@@ -55,8 +55,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ## Contributors
 
 <a href="https://github.com/LondheShubham153/falcon-nft/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=/LondheShubham153/falcon-nft" />
+  <img src="https://contrib.rocks/image?repo=LondheShubham153/falcon-nft" />
 </a>
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
