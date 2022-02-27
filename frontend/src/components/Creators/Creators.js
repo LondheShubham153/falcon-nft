@@ -17,7 +17,7 @@ const Creators = () => {
     </div>
     <div className={classes.creator}>
       <img src="https://avatars.githubusercontent.com/u/64722289?v=4" className={classes.image} />
-      <a className={classes["creator-name"]}>Toyeesh Sinha</a>
+      <a href='https://github.com/sinha-toyeesh'className={classes["creator-name"]}>Toyeesh Sinha</a>
     </div>
     {/* <div className={classes.creator}>
       <img src={require("../../assets/logo.jpg")} className={classes.image} />
